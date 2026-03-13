@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Miguel Athie (GreyCross)
+# 👋 Hi, I'm Miguel Athie 
 **Backend Engineer | Distributed Systems | AI Orchestration**
 📍 Based in Mexico | 🇪🇸 **EU Citizen (Spanish)** | 🇲🇽 **Mexican Citizen**
 *Zero-friction hire for US/LATAM (Nearshore) and EU (Remote) markets.*
